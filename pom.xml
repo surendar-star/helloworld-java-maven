@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
-        <name>release softx</name>
-        <url>http://15.206.166.202:8081/repository/all/</url>
+        <id>mph</id>
+        <name>mph</name>
+        <url>http://34.67.237.240:8081/repository/mph/</url>
     </repository>
     <snapshotRepository>
-        <id>sym</id>
-        <name>snapshot softx</name>
-        <url>http://15.206.166.202:8081/repository/all/</url>
+        <id>mph</id>
+        <name>mph-snap</name>
+        <url>http://34.67.237.240:8081/repository/mph-snap/</url>
     </snapshotRepository>
 </distributionManagement>
 
